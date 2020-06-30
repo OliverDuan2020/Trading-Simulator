@@ -8,6 +8,8 @@ Moreover, this trading program also incorporates the use of twitter streaming AP
 
 The next step related to this program is to develop a web interface which will allow anyone to get access to it(now you can only see and use the program if you have a python compiler)
 
+Lastly, I would love to thank my professor Scott Blanck for his help. Without his timely office hours, I wouldn't be able to get this far.Thank you so much, Professor Scott!
+
 # Instructions on how to use the GOOGLE_APPLICATION_CREDENTIAL
 
 When you fork "Simulator.py" or download to your own python compiler, you need to set the environmental variable of the document which you just download by adding the GOOGLE_APPLICATION_CREDENTIAL there and typing out the path of the credential file. You need both the "Simulaor" and the "GOOGLE_APPLICATION_CREDENTIAL" file in your working directory to successfully launch this program! 
